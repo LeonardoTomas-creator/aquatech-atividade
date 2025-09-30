@@ -1,6 +1,6 @@
 # Atividade - Aquatech Parte 1 (Index) & Parte 2 (Login e Cadastro)
 
-Repositório criado para a realização da **Atividade Aquatech **, com foco no uso de **CSS** para organização e estilização de layouts.
+Repositório criado para a realização da **Atividade Aquatech**, com foco no uso de **CSS** para organização e estilização de layouts.
 
 ## 📂 Conteúdo
 - Estilização inicial (Index)
